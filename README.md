@@ -1,2 +1,2 @@
 # Introduction-to-jQuery
-All the projects I created within the course "Introduction to jQuery (Microsoft)"
+This repository contains all the projects I created within the course "Introduction to jQuery" by Microsoft
